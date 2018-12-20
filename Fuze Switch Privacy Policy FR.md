@@ -29,10 +29,10 @@ Ce service n'utilise pas ces «cookies» de manière explicite. Cependant, l'app
 
 Je peux employer des sociétés tierces et des particuliers pour les raisons suivantes:
 
-* Faciliter notre service;
-* Fournir le service en notre nom;
-* Effectuer des services liés au service; ou
-* Pour nous aider à analyser la manière dont notre service est utilisé.
+* Faciliter l'accès à Fuze Switch;
+* Fournir Fuze Switch en mon nom;
+* Effectuer des services liés à Fuze Switch; ou
+* Pour nous aider à analyser la manière dont Fuze Switch est utilisé.
 
 Je souhaite informer les utilisateurs de Fuze Switch que ces tiers ont accès à vos informations personnelles. Pour accomplir les tâches qui leur sont assignées en notre nom. Cependant, ils sont obligés de ne pas divulguer ni utiliser les informations à d'autres fins.
 
